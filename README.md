@@ -23,4 +23,4 @@ This Quiz Game features a collection of questions stored in classes, where each 
 4. Run the game using:
 
 ```bash
-python quiz_game.py
+python main.py
